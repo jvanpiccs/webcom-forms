@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.14.0",
+    "libraryName": "webcom-forms",
+    "libraryId": "5b029f4b-bafd-4f28-9dac-af4e24f33b98",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "webcom-forms",
+    "solutionShortDescription": "webcom-forms description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

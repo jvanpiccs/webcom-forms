@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "webcom-forms-client-side-solution",
+    "id": "5b029f4b-bafd-4f28-9dac-af4e24f33b98",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.14.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "webcom-forms description"
+      },
+      "longDescription": {
+        "default": "webcom-forms description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "webcom-forms Feature",
+        "description": "The feature that activates elements of the webcom-forms solution.",
+        "id": "bb713a52-edd6-46c1-a56a-73f56eccf244",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/webcom-forms.sppkg"
+  }
+}

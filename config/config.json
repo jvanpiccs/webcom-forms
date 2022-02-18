@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "webcom-formularios-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/webcomFormularios/WebcomFormulariosWebPart.js",
+          "manifest": "./src/webparts/webcomFormularios/WebcomFormulariosWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "WebcomFormulariosWebPartStrings": "lib/webparts/webcomFormularios/loc/{locale}.js"
+  }
+}
